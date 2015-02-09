@@ -2,6 +2,7 @@
 ## Octodex
 
 Homework assignment #2 from [The Iron Yard's](http://theironyard.com/locations/atlanta/) 12-week Front End Engineering bootcamp Q1 2015.  
+
 A CSS exercise using floats and positioning.  
 
 Objective:  Match this octodex artwork  
