@@ -18,5 +18,3 @@ Deliverable: [http://bholben.github.io/Octodex/](http://bholben.github.io/Octode
 From command line:  
   * `git clone git@github.com:bholben/Octodex.git`  
 
-### License
-
