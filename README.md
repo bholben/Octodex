@@ -5,9 +5,11 @@
 
 A CSS exercise using floats and positioning.  
 
-Objective:  Match this octodex artwork...  
+### Artwork to Match
 ![artwork](octodex.png)  
-Deliverable: [http://bholben.github.io/Octodex/](http://bholben.github.io/Octodex/)  
+
+### Deliverable
+[http://bholben.github.io/Octodex/](http://bholben.github.io/Octodex/)  
 
 ### Technologies
   * HTML
