@@ -1,11 +1,11 @@
 
 ## Octodex
 
-Homework assignment #2 from [The Iron Yard's](http://theironyard.com/locations/atlanta/) 12-week Front End Engineering bootcamp Q1 2015.  
+Homework [assignment #2](https://github.com/tiy-atl-js-q1-2015/Assignments) from [The Iron Yard's](http://theironyard.com/locations/atlanta/) 12-week Front End Engineering bootcamp Q1 2015.  
 
 A CSS exercise using floats and positioning.  
 
-Objective:  Match this octodex artwork  
+Objective:  Match this octodex artwork...  
 ![artwork](octodex.png)  
 Deliverable: [http://bholben.github.io/Octodex/](http://bholben.github.io/Octodex/)  
 
